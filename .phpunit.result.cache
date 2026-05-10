@@ -1,1 +1,1 @@
-{"version":2,"defects":[],"times":{"Tests\\ExampleTest::test_environment_is_working":0.001}}
+{"version":2,"defects":[],"times":{"Tests\\ExampleTest::test_environment_is_working":0.001,"Tests\\Api\\ApiClientTest::test_get_throws_exception_on_invalid_api_key":0.461,"Tests\\Api\\ApiClientTest::test_get_throws_exception_on_invalid_endpoint":0.406}}
