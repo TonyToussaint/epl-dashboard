@@ -10,7 +10,7 @@ use PDOStatement;
 
 class CacheServiceTest extends TestCase
 {
-    private MockObject $pdoMock;
+    private MockObject&PDO $pdoMock;
     private MockObject $stmtMock;
     private CacheService $cacheService;
 
